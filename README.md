@@ -1,4 +1,4 @@
-# 📊 Matplotlib for Beginners
+ # 📊 Matplotlib for Beginners
 
 <p align="center">
   <b>A beginner-friendly Matplotlib repository with easy explanations, examples, and practice notebooks.</b>
