@@ -1,10 +1,6 @@
 # 📊 Matplotlib for Beginners
 
 <p align="center">
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="300">
-</p>
-
-<p align="center">
   <b>A beginner-friendly Matplotlib repository with easy explanations, examples, and practice notebooks.</b>
 </p>
 
@@ -38,41 +34,7 @@ Matplotlib is a Python library used to create:
 - 📋 Subplots
 - and many more visualizations.
 
----
 
-# 📂 Repository Structure
-
-```
-Matplotlib/
-│
-├── 01_Introduction.ipynb
-├── 02_Plot_Function.ipynb
-├── 03_Line_Plots.ipynb
-├── 04_Markers_and_Lines.ipynb
-├── 05_Labels_and_Title.ipynb
-├── 06_Grid.ipynb
-├── 07_Legends.ipynb
-├── 08_Bar_Chart.ipynb
-├── 09_Horizontal_Bar.ipynb
-├── 10_Histogram.ipynb
-├── 11_Scatter_Plot.ipynb
-├── 12_Pie_Chart.ipynb
-├── 13_Subplots.ipynb
-├── 14_Styles.ipynb
-├── 15_Save_Figure.ipynb
-├── 16_Box_Plot.ipynb
-├── 17_Fill_Between.ipynb
-├── 18_Error_Bars.ipynb
-├── 19_Annotations.ipynb
-├── 20_Practice_Questions.ipynb
-│
-├── datasets/
-├── images/
-├── cheatsheet/
-└── README.md
-```
-
----
 
 # 📚 Topics Covered
 
